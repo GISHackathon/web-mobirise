@@ -28,7 +28,7 @@
     "noImageResize": "",
     "publishFtpPath": "public_html",
     "publishType": "local",
-    "publishPath": "file:///Users/jakubdubrovsky/Desktop"
+    "publishPath": "file:///Users/jakubdubrovsky/Development/web/gishackathon.eu"
   },
   "pages": {
     "index.html": {
@@ -496,7 +496,7 @@
             }
           },
           "title1": "Česká spořitelna",
-          "subtitle1": "Tým Advanced Technology and Prototyping",
+          "subtitle1": "Advanced Technologies and Prototyping",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
