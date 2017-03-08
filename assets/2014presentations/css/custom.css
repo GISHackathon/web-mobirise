@@ -1,0 +1,19 @@
+.progdetail { margin-left: 70px; }
+.videoframe { margin: 70px auto 70px auto; }
+
+.partner_logo{
+  height: 50px;
+}
+
+footer p, footer li {
+    color: #C2C8CC;
+}
+
+h2 {
+    padding: 1.4em 0 0.9em 0;
+    font-size: 1.8rem;
+}
+
+body {
+	font-size: 14px;
+}

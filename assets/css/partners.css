@@ -1,0 +1,26 @@
+.gh-partners{
+  background-color: grey;
+}
+
+.gh-partnerbadge{
+  text-align: center;
+}
+
+.gh-partnerbadge img{
+  max-width: 60%;
+  max-height: 90px;
+}
+
+.service-box {
+    margin: 50px auto 0;
+    max-width: 400px;
+}
+
+.gh-partnerbadge a:focus, .gh-partnerbadge a:hover {
+  color: #23527c;
+  text-decoration: none;
+}
+
+.gh-partnerbadge a{
+  color: #333333;
+}

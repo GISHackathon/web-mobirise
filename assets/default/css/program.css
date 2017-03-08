@@ -1,0 +1,144 @@
+
+/* program */
+
+.program dt
+{
+	position: relative;
+	float: left;
+	clear: left;
+	padding: 0px 20px 30px 0;
+	text-align: right;
+	box-sizing: border-box;
+}
+
+@media (max-width: 768px)
+{
+	.program dt
+	{
+		text-align: left;
+		border-left: 2px solid #555;
+		padding: 0 0 0 30px;
+	}
+	div.poll
+	{
+		margin: 0px -20px 0 -20px;
+	}
+}
+
+.program dd:before {
+	content: '';
+	z-index: 1;
+	position: absolute;
+	top: -2px;
+	left: -15px;
+	width: 8px;
+	height: 8px;
+	border: 4px solid #888;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	background: #ccc;
+	font-family: FontAwesome;
+	text-align: center;
+	line-height: 16px;
+	color: #fff;
+	padding: 5px;
+  box-sizing: content-box;
+}
+
+
+
+
+.program dd.program-type-registration:before,
+.program dd.program-type-start:before,
+.program dd.program-type-break:before,
+.program dd.program-type-caffee:before,
+.program dd.program-type-lunch:before,
+.program dd.program-type-beer:before,
+.program dd.program-type-end:before
+{
+
+	background: #ECF0F1;
+	left: -19px;
+	top: -5px;
+	width: 15px;
+	height: 15px;
+	padding: 5px;
+
+
+}
+
+.program dd.program-type-registration:before {
+	content: '\f040';
+	background: #E67E22;
+
+}
+.program dd.program-type-beer:before {
+	content: '\f0fc';
+	background: #F1C40F;
+
+}
+.program dd.program-type-start:before {
+	background: #83d64c;
+}
+.program dd.program-type-end:before {
+	background: #E74C3C;
+}
+.program dd.program-type-networking:before {
+	background: #9B59B6;
+}
+.program dd.program-type-caffee:before {
+	background: #D35400;
+	content: '\f0f4';
+
+
+}
+.program dd.program-type-break:before {
+	background: #fff;
+}
+.program dd.program-type-lunch:before {
+	background: #F39C12;
+	content: '\f0f5';
+
+
+}
+
+
+.program dd
+{
+	float: left;
+	clear: right;
+	padding: 0px 0px 30px 20px;
+	border-left: 4px solid #888;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.program dd:last-of-type
+{
+	border-color: transparent;
+}
+
+
+
+
+.program-title
+{
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.program-speaker
+{
+	font-size: 15px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	color: #777;
+}
+
+.program-controls
+{
+	float: right;
+	margin: 0 -20px 0 40px;
+}
