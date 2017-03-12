@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 11,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "publishFtpPath": "public_html",
     "publishType": "local",
@@ -298,7 +298,7 @@
             }
           },
           "title": "Páteční konference",
-          "text": "<b>V pátek 24. 3. od 14:00</b> budou probíhat přednášky na téma <b>lidé v pohybu</b>. Konference tedy bude okolo témat doprava, navigace a infrastruktura. Dozvíte se o analýze velkých dat, ale i o konceptu chytrého auta.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Předběžný seznam přednášek je následující:</span><br><br>- Vratislav Kalenda z <a href=\"http://applifting.cz\">Applifting</a> řekne technikálie z #ChytreAuto  <br>- Michal Korolkov z CHAPSu o IDOSu<br>- Stanislav Šumbera, <a href=\"http://sumbera.com\">sumbera.com</a> o webové vizuální analytice v dopravě a infrastruktuře <br>- Michal Zimmerman, <a href=\"https://www.clevermaps.cz/\">CleverMaps</a>, Výstavba dopravní infrastruktury a majetkoprávní příprava<br>- Andrea Kýnová z ÚVT MU přestaví knihovnu <a href=\"https://maps.muni.cz/munimap/\">Munimap</a> , výkladní skříň GISů na ÚVT, která bude zveřejněna jako open source<br>- David Bárta o dopravě a smartcity<br>- eparkomat&nbsp;<br>- Kiwi&nbsp;<br>- Jan Sirotek&nbsp;<br><br>",
+          "text": "<b>V pátek 24. 3. od 14:00</b> budou probíhat přednášky na téma <b>lidé v pohybu</b>. Konference tedy bude okolo témat doprava, navigace a infrastruktura. Dozvíte se o analýze velkých dat, ale i o konceptu chytrého auta.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Předběžný seznam přednášek je následující:</span><br><br>-&nbsp;<a href=\"http://Kiwi.com\" target=\"_blank\">Kiwi</a><br>-&nbsp;<a href=\"https://www.liftago.com/cs\" target=\"_blank\">Liftago</a><br>- Jak pomáhat státní správě usnadňovat život a snižovat administrativu (Jan Sirotek)<br>-&nbsp;<a href=\"https://www.cleveranalytics.com\" target=\"_blank\">CleverAnalytics</a><br>-&nbsp;<a href=\"https://www.t-mobile.cz/chytre-auto\" target=\"_blank\">Chytré auto</a>&nbsp;<br>-&nbsp;<a href=\"http://www.chaps.cz\" target=\"_blank\">IDOS</a><br>- Webová vizuální analytika  v dopravě a infrastruktuře (Stanislav Šumbera, <a href=\"http://sumbera.com\" target=\"_blank\">sumbera.com</a>)<br><br>Pokud máte tip na přednášku, <a href=\"mailto:gishackathon@dumo.cz\">můžete nám napsat</a>. Pro komunikaci můžete také využít <a href=\"https://gishackathonjaro2017.slack.com/shared_invite/MTQzMjgyMjkwMjEyLTE0ODczNjE5MTQtYTJiNzZiMzQ3ZA\" target=\"_blank\">Slack</a>.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
